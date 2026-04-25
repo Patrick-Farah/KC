@@ -1,0 +1,12 @@
+.cwp-wishlist-button {
+    background: #f26522;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin-top: 10px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+.cwp-wishlist-button:hover {
+    background: #e04a00;
+}

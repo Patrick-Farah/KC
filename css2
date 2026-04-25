@@ -1,0 +1,7 @@
+﻿@font-face {
+  font-family: 'Aldrich';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(s/aldrich/v22/MCoTzAn-1s3IGyJMZaA.ttf) format('truetype');
+}
